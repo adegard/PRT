@@ -1,5 +1,4 @@
-# PRT
-PRT Machine learning 
+# R financial analysis with Machine learning for Trading system implementation
 
 R code for decision trees models uses “caret” package. Neural network uses “neuralnet” package. Standard trading indicators are calculated using “TTR” package. 
 
